@@ -1,4 +1,4 @@
-# Padel
+# EasyPadel
 
 This project is a padel court reservation management system, designed to be scalable and support multiple companies with several courts. Users can make flexible bookings in 1-hour intervals, view, and manage their reservations. It uses the MVC pattern with Laravel, Blade/Livewire, and MySQL to provide a dynamic and smooth user experience.
 
